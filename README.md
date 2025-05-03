@@ -1,8 +1,6 @@
-# Smartmatrix Desktop Player
-
-Smartmatrix Desktop Player is a desktop application developed by Axoten Innovations (PVT) Ltd. For more information, visit [Axoten Innovations](https://axoten.com).
+# Aplus Player
 
 ## License
 
-This project is not open source. All rights reserved by Aplus Education.  
+This project is not open source. All rights reserved by Aplus Education. For more information, visit [Aplus Education](https://apluseducation.lk).
 See [LICENSE](./LICENSE) for details.
